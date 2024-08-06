@@ -12,7 +12,7 @@ title                    : "Yunkang Tao"
 title_separator          : "-"
 name                     : # &name "Your Name"
 description              : # &description "personal description"
-url                      : https://yunkangtao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yunkangtao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/YunkangTao
 
@@ -27,7 +27,7 @@ author:
   bio              : "A researcher interested in CV and AIGC."
   location         : "Hong Kong"
   employer         : "CAS-CAIR"
-  uri              : https://yunkangtao.github.io/
+  url              : https://yunkangtao.github.io
   email            : # "none@example.org" 
 
   # Academic websites
